@@ -11,7 +11,7 @@
         <repository>
             <id>github</id>
             <name>GitHub GulamSamdani Apache Maven Packages</name>
-             <url>https://maven.pkg.github.com/masumcse1/prelecheck</url>
+               <url>https://maven.pkg.github.com/masumcse1/prelecheck</url>
         </repository>
     </distributionManagement>
     
