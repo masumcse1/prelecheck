@@ -26,7 +26,7 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/ManjunathPrabhakar/github-example-package.git</connection>
+        <connection>scm:git:git://github.com/masumcse1/prelecheck.git</connection>
         <developerConnection>scm:git:https://github.com/masumcse1/prelecheck.git</developerConnection>
         <url>https://github.com/masumcse1/prelecheck</url>
         <tag>prelecheck</tag>
