@@ -62,7 +62,11 @@
                     <target>8</target>
                 </configuration>
             </plugin>
-
+ <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>3.0.0-M1</version>
+         
            <configuration>
 	   						
 	   						<checkModificationExcludes>
@@ -70,6 +74,7 @@
 	   							<checkModificationExclude>settings.xml</checkModificationExclude>
 	   						</checkModificationExcludes>
 					</configuration>
+					   </plugin>
         </plugins>
     </build>
 
